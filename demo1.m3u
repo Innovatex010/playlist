@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kk-3" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kk-3
+https://img1.hwloc.com/hls_mps/761f71a404923d7b0ff244c2a2616a8afbd3a5c5/720/index_261.m3u8?auth_key=aJJtGFu294GM41rU%2B6It3YVU24S1uBc6afEO0A4t0E4%3D&expire=1786728580507
 #EXTINF:-1 tvg-id="kk-2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kk-2
 https://img1.hlucb.com/hls_mps/c0b02d9e1a650ab6a41e9164f95e8af749493d46/720/index_301.m3u8?auth_key=shnfMARaaKn7%2B4PGoj8qaXW5AzeCdEVXW7%2B%2FNlVBHh8%3D&expire=1786721262626
 #EXTINF:-1 tvg-id="kk-1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kk-1

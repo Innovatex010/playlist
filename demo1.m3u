@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kk-2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kk-2
+https://img1.hlucb.com/hls_mps/c0b02d9e1a650ab6a41e9164f95e8af749493d46/720/index_301.m3u8?auth_key=shnfMARaaKn7%2B4PGoj8qaXW5AzeCdEVXW7%2B%2FNlVBHh8%3D&expire=1786721262626
 #EXTINF:-1 tvg-id="kk-1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kk-1
 https://img1.swclb.com/hls_mps/3cbedc43dc110aabee098437e74b233e60a75ac6/720/index_304.m3u8?auth_key=w1hxvN5ds%2B1TE4cLkSJ1SN4U5Qmotc86nGsUxZQo%2FUA%3D&expire=1786717176777
 #EXTINF:-1 tvg-id="Maine Pyar Kiya" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",Maine Pyar Kiya

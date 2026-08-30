@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kkk 8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kkk 8
+https://img1.swclb.com/hls_mps/d873ebc76ec892dafe2715e3342ae6a7fb545fd2/720/index_304.m3u8?auth_key=s7go53nZLrvSnHDPwdzFfdly3zm%2B04%2BGSFh%2BDR%2BHmcc%3D&expire=1788077439765
 #EXTINF:-1 tvg-id="kkk 7" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kkk 7
 https://img1.flckh.com/hls_mps/e0110294529f5420f50677eca0e93e50d809ab08/720/index_303.m3u8?auth_key=wJIwHJtKw6NZgTnNP4iLw02sn8O5VhoW2eJj7qFCl3w%3D&expire=1788021897433
 #EXTINF:-1 tvg-id="Hum Saath Saath Hain" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",Hum Aapke Hain Koun

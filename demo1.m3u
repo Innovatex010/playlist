@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="IN | COLORS HD." tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS HD.
+http://onstv.click:8080/live/484869797452/3264184155/911289.ts
+#EXTINF:-1 tvg-name="IN | COLORS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS 4K
+http://onstv.click:8080/live/484869797452/3264184155/275036.ts
+#EXTINF:-1 tvg-name="IN | COLORS RISHTEY" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-rishtey-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS RISHTEY
+http://onstv.click:8080/live/484869797452/3264184155/911275.ts
+#EXTINF:-1 tvg-name="IND_COLORS INFINITY FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS INFINITY FHD
+http://onstv.click:8080/live/484869797452/3264184155/911321.ts
+#EXTINF:-1 tvg-name="IND_COLORS CINEPLEX BOLLYWOOD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX BOLLYWOOD
+http://onstv.click:8080/live/484869797452/3264184155/911273.ts
+#EXTINF:-1 tvg-name="IND_COLORS CINEPLEX FHD" tvg-logo="" group-title="IND | INTERTAINMENT 4K",IND_COLORS CINEPLEX FHD
+http://onstv.click:8080/live/484869797452/3264184155/911274.ts
+#EXTINF:-1 tvg-name="IN | COLORS CINEPLEX SUPERHITS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS CINEPLEX SUPERHITS 4K
+http://onstv.click:8080/live/484869797452/3264184155/911252.ts
 #EXTINF:-1 tvg-id="kkk 12" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kkk 12
 https://img1.ktxcw.com/hls_mps/508fb5644e97ec9d02f48c6a14738988ff12ab93/720/index_341.m3u8?auth_key=2i2%2B31BFZeieV3egtZ0j9765r3licnGR%2F73MGccPnpM%3D&expire=1788971590821
 #EXTINF:-1 tvg-id="kkk 11" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Movie",kkk 11

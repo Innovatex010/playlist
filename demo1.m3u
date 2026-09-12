@@ -1,4 +1,70 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="IN | & FLIX HD." tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="IND | MOVIES",IN | & FLIX HD.
+http://onstv.click:8080/live/484869797452/3264184155/911287.ts
+#EXTINF:-1 tvg-name="IN | & Pictures 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WabgtdlxvjP6GDUfKH4hgrCTusUCcu5PLPaTcK3w7A&s=10" group-title="IND | MOVIES",IN | & Pictures 4K
+http://onstv.click:8080/live/484869797452/3264184155/275042.ts
+#EXTINF:-1 tvg-name="IN | & XPLOR 4k" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-xplor-in.png" group-title="IND | MOVIES",IN | & XPLOR 4k
+http://onstv.click:8080/live/484869797452/3264184155/911323.ts
+#EXTINF:-1 tvg-name="IN | ZEE Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10" group-title="IND | MOVIES",IN | ZEE Cinema 4K
+http://onstv.click:8080/live/484869797452/3264184155/275058.ts
+#EXTINF:-1 tvg-name="IND | ZEE CINEMA HD." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10" group-title="IND | MOVIES",IND | ZEE CINEMA HD.
+http://onstv.click:8080/live/484869797452/3264184155/911313.ts
+#EXTINF:-1 tvg-name="IN | Cartoon NET WORK HD" tvg-logo="https://i.imgur.com/mXgp2qD.png" group-title="IND | KIDS",IN | Cartoon NET WORK HD
+http://onstv.click:8080/live/484869797452/3264184155/5.ts
+#EXTINF:-1 tvg-name="MOTU-PATLU 24/7" tvg-logo="s:1:/images/-7oKEATgI6CdWxwKW-B7i1sYwax1dah1AWK0JnmCpVQ8If-Y8WEt7AmkPP1bnRSdcE3VQyIjQuEt7n8STL9HLSLjHZKGawvK1r3N4ucLYVI.jpg" group-title="IND | KIDS",MOTU-PATLU 24/7
+http://onstv.click:8080/live/484869797452/3264184155/957364.ts
+#EXTINF:-1 tvg-name="Mr. Bean 24/7" tvg-logo="s:1:/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qulUm0hRNZ9Byny5Oiy0Nb2jW3OC-KAu71qxf2YIVbGHPBZr69pwAjkFnI1Gerld7MHtvSxxccoAM6THZODE56nQgp5DSt77Pap90JlRxGMYfELb6L8GHSipyYr8UcNAdFc.jpg" group-title="IND | KIDS",Mr. Bean 24/7
+http://onstv.click:8080/live/484869797452/3264184155/957365.ts
+#EXTINF:-1 tvg-name="LOONEYTOONS 24/7" tvg-logo="s:1:/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93quksFIOfLDK2mdWQRLZ6QACz__g4Tjp7VqeuMew6bKO_b842ZODpUxe4QOh30bJ_TIpBdtyENCaSzwa4UJ6kKsQiI4CM9H-yVQ7feUyoywL9S8YpcIPFSWYeynZBMHV_HMw7_a8O9m81XaPMTCwRJg1z.jpg" group-title="IND | KIDS",LOONEYTOONS 24/7
+http://onstv.click:8080/live/484869797452/3264184155/957366.ts
+#EXTINF:-1 tvg-name="TOM AND JERRY 24/7" tvg-logo="s:1:/images/m0L1cTfVGunSvdcXcByW8OjGkLi6N_XilNEdkw93qun4x_YJp4aG0iPdf7xTP78H3YFD6eYUkrVcMc4Ww1tT1AZ077Ozti1toqbK7SiN1dZArtUnwY8defgflYCtsyqnEqjafHLh0lDzdFia-NhdeeXeZyS5HSKgxMy2qBaNAe8.jpg" group-title="IND | KIDS",TOM AND JERRY 24/7
+http://onstv.click:8080/live/484869797452/3264184155/957367.ts
+#EXTINF:-1 tvg-name="PK | HOORA TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hoora-tv-uk.png" group-title="IND | KIDS",PK | HOORA TV
+http://onstv.click:8080/live/484869797452/3264184155/1347243.ts
+#EXTINF:-1 tvg-name="IN | Disney Channel HD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-700x394.png" group-title="IND | KIDS",IN | Disney Channel HD
+http://onstv.click:8080/live/484869797452/3264184155/246763.ts
+#EXTINF:-1 tvg-name="IN | Disney Junior HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="IND | KIDS",IN | Disney Junior HD
+http://onstv.click:8080/live/484869797452/3264184155/246769.ts
+#EXTINF:-1 tvg-name="IN | Disney Junior Hindi HD" tvg-logo="" group-title="IND | KIDS",IN | Disney Junior Hindi HD
+http://onstv.click:8080/live/484869797452/3264184155/123848.ts
+#EXTINF:-1 tvg-name="IN | Hangama HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png" group-title="IND | KIDS",IN | Hangama HD
+http://onstv.click:8080/live/484869797452/3264184155/123826.ts
+#EXTINF:-1 tvg-name="IN | KIDS ZONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="IND | KIDS",IN | KIDS ZONE HD
+http://onstv.click:8080/live/484869797452/3264184155/246774.ts
+#EXTINF:-1 tvg-name="IN | NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.png" group-title="IND | KIDS",IN | NICK HD
+http://onstv.click:8080/live/484869797452/3264184155/246770.ts
+#EXTINF:-1 tvg-name="IN | NICK HD +" tvg-logo="http://103.184.192.164:5001/jtvimage/Nick_HD_Plus.png" group-title="IND | KIDS",IN | NICK HD +
+http://onstv.click:8080/live/484869797452/3264184155/11.ts
+#EXTINF:-1 tvg-name="IN | NICK JR HD" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="IND | KIDS",IN | NICK JR HD
+http://onstv.click:8080/live/484869797452/3264184155/9.ts
+#EXTINF:-1 tvg-name="IN | Planet FUN HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="IND | KIDS",IN | Planet FUN HD
+http://onstv.click:8080/live/484869797452/3264184155/246775.ts
+#EXTINF:-1 tvg-name="IN | POGO (hindi) HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="IND | KIDS",IN | POGO (hindi) HD
+http://onstv.click:8080/live/484869797452/3264184155/320.ts
+#EXTINF:-1 tvg-name="IN | Sonic NICK HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_sonic_us.png" group-title="IND | KIDS",IN | Sonic NICK HD
+http://onstv.click:8080/live/484869797452/3264184155/246767.ts
+#EXTINF:-1 tvg-name="IN | MINIMAX" tvg-logo="" group-title="IND | KIDS",IN | MINIMAX
+http://onstv.click:8080/live/484869797452/3264184155/701318.ts
+#EXTINF:-1 tvg-name="PK | BABY TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Roh3jrfQX6mM8_OXPtucFovsqVv7gzWqzw&s" group-title="IND | KIDS",PK | BABY TV FHD
+http://onstv.click:8080/live/484869797452/3264184155/957356.ts
+#EXTINF:-1 tvg-name="IN | SONY YAY" tvg-logo="http://ryzen.one/logos2/sony_yay.jpg" group-title="IND | KIDS",IN | SONY YAY
+http://onstv.click:8080/live/484869797452/3264184155/957357.ts
+#EXTINF:-1 tvg-name="IN | D2H HUNGAMA TV" tvg-logo="http://ryzen.one/logos2/hungama_tv.jpg" group-title="IND | KIDS",IN | D2H HUNGAMA TV
+http://onstv.click:8080/live/484869797452/3264184155/1389560.ts
+#EXTINF:-1 tvg-name="IN | TS Super Hungama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" group-title="IND | KIDS",IN | TS Super Hungama HD
+http://onstv.click:8080/live/484869797452/3264184155/1389561.ts
+#EXTINF:-1 tvg-name="IN | STAR BHARAT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-bharat-hk-in.png" group-title="IND | ENTERTAINMENT HD",IN | STAR BHARAT HD
+http://onstv.click:8080/live/484869797452/3264184155/21.ts
+#EXTINF:-1 tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="IND | ENTERTAINMENT HD",IN | STAR GOLD HD
+http://onstv.click:8080/live/484869797452/3264184155/29.ts
+#EXTINF:-1 tvg-name="IN | STAR GOLD 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-2-hk-in.png" group-title="IND | ENTERTAINMENT HD",IN | STAR GOLD 2 HD
+http://onstv.click:8080/live/484869797452/3264184155/31.ts
+#EXTINF:-1 tvg-name="IN | STAR GOLD Select HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_gold_in_select_hd.png" group-title="IND | ENTERTAINMENT HD",IN | STAR GOLD Select HD
+http://onstv.click:8080/live/484869797452/3264184155/28.ts
+#EXTINF:-1 tvg-name="IN | STAR GOLD Thrills HD" tvg-logo="" group-title="IND | ENTERTAINMENT HD",IN | STAR GOLD Thrills HD
+http://onstv.click:8080/live/484869797452/3264184155/189473.ts
+#EXTINF:-1 tvg-name="IN | STAR GOLD Romance HD" tvg-logo="" group-title="IND | ENTERTAINMENT HD",IN | STAR GOLD Romance HD
+http://onstv.click:8080/live/484869797452/3264184155/189474.ts
 #EXTINF:-1 tvg-name="IN | COLORS HD." tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS HD.
 http://onstv.click:8080/live/484869797452/3264184155/911289.ts
 #EXTINF:-1 tvg-name="IN | COLORS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="IND | INTERTAINMENT 4K",IN | COLORS 4K
